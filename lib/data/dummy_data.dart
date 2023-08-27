@@ -31,8 +31,8 @@ const availableCategories = [
   ),
   Category(
     id: 'c6',
-    title: 'Italian',
-    color: Colors.lightGreen,
+    title: 'Exotic',
+    color: Colors.green,
   ),
   Category(
     id: 'c7',
